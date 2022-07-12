@@ -1,4 +1,4 @@
-import conect
+import config.conect
 import datetime
 
 class Clientes:
